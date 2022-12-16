@@ -18,7 +18,7 @@ Flexbox
 
 Ссылка на сайт: 
 
-https://github.com/BaydakovIlya/russian-travel/blob/main/index.html
+https://baydakovilya.github.io/russian-travel/
 
  
 
